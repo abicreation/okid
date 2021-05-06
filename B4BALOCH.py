@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To lovehacker
+#The Credit For This Code Goes To Shadow hacker
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
 import os,sys,time,mechanize,itertools,datetime,random,hashlib,re,threading,json,getpass,urllib,cookielib
@@ -19,7 +19,7 @@ my_color = [P, M, H, K, B, U, O]
 warna = random.choice(my_color)
 warni = random.choice(my_color)
 def pkgs():
-        love("\033[1;91m«-----------------\033[1;96mSHABIR BALOCH\033[1;91m-----------------»")
+        love("\033[1;91m«-----------------\033[1;96mSadow.hacker\033[1;91m-----------------»")
         love("\033[1;96m«-----------------Disclaimer---------------»")
         love("\033[1;91m     This Tool is for Educational Purpose")
         love("\033[1;93mThis presentation is for educational")
@@ -28,9 +28,9 @@ def pkgs():
         love("\033[1;93mheld accountable This Tool/Channel Doesn't")
         love("\033[1;93mSupport illegal activities.for any illegal")
         love("\033[1;93mActivitie This Tool is for Educational Purpose")
-        love("\033[1;91m«------------------SHABIR BALOCH----------------»")
-        love("\033[1;95mB4Baloch 2nd Tool Start ComingSoon New Update»")
-        love("\033[1;96m «-----------------\033[1;92mSHABIR BALOCH\033[1;96m--------------»")
+        love("\033[1;91m«------------------Shadow.Hacker----------------»")
+        love("\033[1;95mB4Shadow 2nd Tool Start ComingSoon New Update»")
+        love("\033[1;96m «-----------------\033[1;92mBlack.Hat\033[1;96m--------------»")
         time.sleep(0.3)
         os.system("pip install lolcat")
 try:
@@ -98,26 +98,26 @@ def jalan(z):
                 time.sleep(0.00001)
 ##### LOGO #####
 logo = """
-\033[1;96mPAK HACKERS░░░\033[1;92m░░░SHABIRBALOCH╗░░WEBDEVELOPER╗░AND╗░░A\033[1;91mETICALHACKER╗
-\033[1;96mYT╔══M4╗B4║░\033[1;92m░░░░WEBHACKER╔══PAK╗ANONAYMOUS╔══YOUTUBE╗CHANNEL║\033[1;91m░B4_BALOCH_M4_MASTER╔╝
+\033[1;96mPAK HACKERS░░░\033[1;92m░░░Black.Hat╗░Cyber.hacker╗░AND╗░░A\033[1;91mETICALHACKER╗
+\033[1;96mYT╔══M4╗Black║░\033[1;92m░░░░WEBHACKER╔══╗Master in ethical hacking╔══YOUTUBE╗CHANNEL║\033[1;91m░Cyber hacker╔╝
 \033[1;96mPAKISTANI╦╝HACKERS\033[1;92m║░░░░░███████║██║░░╚═╝\033[1;91m█████═╝░
-\033[1;96mWEBHACKER╔══SHABIRBALOCH╗\033[1;92m██║░░░░░██╔══██║██║░░\033[1;91m██╗██╔═██╗░
-\033[1;96mWHATSAPP\033[1;92m╦╝03232132362╗██║░░██║╚█\033[1;91m████╔╝██║░╚██╗
+\033[1;96mWEBHACKER╔══Pakisni╗\033[1;92m██║░░░░░██╔══██║██║░░\033[1;91m██╗██╔═██╗░
+\033[1;96mWHATSAPP\033[1;92m╦╝03205105256╗██║░░██║╚█\033[1;91m████╔╝██║░╚██╗
 \033[1;96m╚═══\033[1;92m══╝░╚══════╝╚═╝░░╚═╝\033[1;91m░╚════╝░╚═╝░░╚═╝
-\033[1;96mHACK\033[1;92mTHE╗░░░HACKERS╗░BALOCH╗░HACKERS\033[1;91m████╗██╗░█████╗░
+\033[1;96mHACK\033[1;92mTHE╗░░░HACKERS╗░Shadow╗░HACKERS\033[1;91m████╗██╗░█████╗░
 \033[1;96mWE\033[1;92mARE╗░LEGION║WE╔══NEVER╗\033[1;91mFORGIVE╔════╝SPEED█║LIMIT█╔══INCREASED█╗
-\033[1;92mVISIT╔█OUR█╔YT║█CHANNEL█\033[1;91mB4║█BALOCH█╗░░M4║██MASTER██║
+\033[1;92mVISIT╔█OUR█╔YT║█CHANNEL█\033[1;91mMaster║█in█╗░░Ethichal║██Hacking██║
 \033[1;92m██║╚██╔╝██║██╔\033[1;91m══██║██╔══╝░░██║██╔══██║
 \033[1;92m██║░╚═╝░██║█\033[1;91m█║░░██║██║░░░░░██║██║░░██║
 \033[1;92m╚═╝░░░░░╚═\033[1;91m╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝░░╚═╝
 \033[1;47m\033[1;31m      PAKISTANI HACKER       \033[1;0m
 \033[1;96m«-----------------\033[1;91mSHABIR BALOCH\033[1;96m-----------------»
-\033[1;91m  ┈┈┈◢▇◣◢▇◣┈┈◢▇◣◢▇◣┈┈◢▇◣◢▇◣┈┈┈┈  BALOCH
+\033[1;91m  ┈┈┈◢▇◣◢▇◣┈┈◢▇◣◢▇◣┈┈◢▇◣◢▇◣┈┈┈┈  SHADOW
 \033[1;91m  ┈┈┈▇▇▇▇▇▇┈┈▇▇▇▇▇▇┈┈▇▇▇▇▇▇┈┈┈┈  HACKER
 \033[1;91m  ┈┈┈◥▇▇▇▇◤┈┈◥▇▇▇▇◤┈┈◥▇▇▇▇◤┈┈┈┈
 \033[1;91m  ┈┈┈┈◥▇▇◤┈┈┈┈◥▇▇◤┈┈┈┈◥▇▇◤┈┈┈┈┈   WhatsApp
 \033[1;91m  ┈┈-̴̧̬͖͇̟̟̼̱͙̠͉̟̹̘̖̥͈͖͚̯͗͑͌̃̿͗̈̿̿̏͗̑̀̀͘┈┈◥◤┈┈┈-̴̧̬͖͇̟̟̼̱͙̠͉̟̹̘̖̥͈͖͚̯͗͑͌̃̿͗̈̿̿̏͗̑̀̀͘┈┈◥◤┈┈┈-̴̧̬͖͇̟̟̼̱͙̠͉̟̹̘̖̥͈͖͚̯͗͑͌̃̿͗̈̿̿̏͗̑̀̀͘┈┈◥◤┈┈┈-̴̧̬͖͇̟̟̼̱͙̠͉̟̹̘̖̥͈͖͚̯͗͑͌̃̿͗̈̿̿̏͗̑̀̀͘┈┈┈ 03232132362
-\033[1;96m«-----------------\033[1;91mSHABIR BALOCH\033[1;96m-----------------»"""
+\033[1;96m«-----------------\033[1;91mCyber error H\033[1;96m-----------------»"""
 
 R = '\033[1;91m'
 G = '\033[1;92m'
@@ -147,32 +147,32 @@ def menu():
     os.system('clear')
     print(logo)
     os.system('clear')
-    os.system('echo  SHABIR░░░░░░BALOCH░░PAKISTANI░ETICAL░░HACKER | lolcat -a -F 0.1')
-    os.system('echo  SHABIR░░░░░BALOCH██WEB██DEVELOPER░██ | lolcat -a -F 0.1')
+    os.system('echo  SHADOW░░░░░░Shadow░░PAKISTANI░ETICAL░░HACKER | lolcat -a -F 0.1')
+    os.system('echo  SHADOW░░░░░Hacker██WEB██DEVELOPER░██ | lolcat -a -F 0.1')
     os.system('echo  WHATSAPP░░░░░03232132362░░FOR THIS SCRIPT░ | lolcat -a -F 0.1')
-    os.system('echo  CONTACT  ░░░░░ME ON WHATSAPP░░BALOCH CYBER HACKER░ | lolcat -a -F 0.1')
+    os.system('echo  CONTACT  ░░░░░ME ON WHATSAPP░░Cyber.Hacker░ | lolcat -a -F 0.1')
     os.system('echo  WE ARE ░░ANONAYMOUS░WE ARE LEGION WE NEVER GORFIVE | lolcat -a -F 0.1')
     os.system('echo  WE NEVER FORGET░ASPECT ░░ US ░KNOWLEDGE░IS░░FREE | lolcat -a -F 0.1')
-    os.system('echo  HI, I AM SHABIR BALOCH A ETICAL HACKER | lolcat -a -F 0.1')
+    os.system('echo  HI, I AM SHADOW HACKER ETICAL HACKER | lolcat -a -F 0.1')
     os.system('echo  WE ARE ANONYMOUS WE ARE LEGION WE NEVER FORGIVE WE NEVER FORGET ASPECT US | lolcat -a -F 0.1')
-    os.system('echo  SHABIR BALOCH WHATSAPP = 03232132362 | lolcat -a -F 0.1')
-    os.system('echo  VISIT OUR YOUTUBE CHANNEL B4 BALOCH M4 MASTER | lolcat -a -F 0.1')
+    os.system('echo  SHABIR BALOCH WHATSAPP = 03205105256 | lolcat -a -F 0.1')
+    os.system('echo  VISIT OUR YOUTUBE CHANNEL Master In Ethical Hacking| lolcat -a -F 0.1')
     os.system('echo  PAKISTANI ETICAL HACKER AND A PROGRAMMER | lolcat -a -F 0.1')
     os.system('echo  LETS░░░░░ENJOY░░OUR░░░░░TOOL░░THANKS | lolcat -a -F 0.1')
     os.system('echo  ------ Your Mind is Your Best Weapon------&&date  | lolcat -a -F 0.1')
-    os.system('echo ----------------SHABIR BALOCH-----------------| lolcat')
-    os.system('echo  ┈┈┈◢▇◣◢▇◣┈┈◢▇◣◢▇◣┈┈◢▇◣◢▇◣┈┈┈┈  SHABIR BALOCH| lolcat --animate')
-    os.system('echo  ┈┈┈▇▇▇▇▇▇┈┈▇▇▇▇▇▇┈┈▇▇▇▇▇▇┈┈┈┈  BALOCHHACKER| lolcat --animate')
+    os.system('echo ----------------SHAdow hacker-----------------| lolcat')
+    os.system('echo  ┈┈┈◢▇◣◢▇◣┈┈◢▇◣◢▇◣┈┈◢▇◣◢▇◣┈┈┈┈  cyber hacker| lolcat --animate')
+    os.system('echo  ┈┈┈▇▇▇▇▇▇┈┈▇▇▇▇▇▇┈┈▇▇▇▇▇▇┈┈┈┈  black.HACKER| lolcat --animate')
     os.system('echo  ┈┈┈◥▇▇▇▇◤┈┈◥▇▇▇▇◤┈┈◥▇▇▇▇◤┈┈┈┈| lolcat')
     os.system('echo  ┈┈┈┈◥▇▇◤┈┈┈┈◥▇▇◤┈┈┈┈◥▇▇◤┈┈┈┈┈   WhatsApp| lolcat --animate')
-    os.system('echo  ┈┈-̴̧̬͖͇̟̟̼̱͙̠͉̟̹̘̖̥͈͖͚̯͗͑͌̃̿͗̈̿̿̏͗̑̀̀͘┈┈◥◤┈┈┈-̴̧̬͖͇̟̟̼̱͙̠͉̟̹̘̖̥͈͖͚̯͗͑͌̃̿͗̈̿̿̏͗̑̀̀͘┈┈◥◤┈┈┈-̴̧̬͖͇̟̟̼̱͙̠͉̟̹̘̖̥͈͖͚̯͗͑͌̃̿͗̈̿̿̏͗̑̀̀͘┈┈◥◤┈┈┈-̴̧̬͖͇̟̟̼̱͙̠͉̟̹̘̖̥͈͖͚̯͗͑͌̃̿͗̈̿̿̏͗̑̀̀͘┈┈┈03232132362| lolcat --animate')
-    os.system('echo -----------------SHABIR BALOCH----------------| lolcat --animate')
+    os.system('echo  ┈┈-̴̧̬͖͇̟̟̼̱͙̠͉̟̹̘̖̥͈͖͚̯͗͑͌̃̿͗̈̿̿̏͗̑̀̀͘┈┈◥◤┈┈┈-̴̧̬͖͇̟̟̼̱͙̠͉̟̹̘̖̥͈͖͚̯͗͑͌̃̿͗̈̿̿̏͗̑̀̀͘┈┈◥◤┈┈┈-̴̧̬͖͇̟̟̼̱͙̠͉̟̹̘̖̥͈͖͚̯͗͑͌̃̿͗̈̿̿̏͗̑̀̀͘┈┈◥◤┈┈┈-̴̧̬͖͇̟̟̼̱͙̠͉̟̹̘̖̥͈͖͚̯͗͑͌̃̿͗̈̿̿̏͗̑̀̀͘┈┈┈03205105256| lolcat --animate')
+    os.system('echo -----------------Alone Coder----------------| lolcat --animate')
     os.system('echo    To return to this menu from any Tool| lolcat --animate')
     time.sleep(0.0005)
     os.system('echo        Stop Process Press. CTRL + z| lolcat --animate')
     time.sleep(0.0005)
-    os.system('echo         Type python2 B4BALOCH.py| lolcat --animate')
-    os.system('echo -----------------SHABIR BALOCH----------------| lolcat --animate')
+    os.system('echo         Type python2 ok.py| lolcat --animate')
+    os.system('echo -----------------ALONE CODER----------------| lolcat --animate')
     time.sleep(0.0005)
     os.system('echo [A]  Install Random Mail Cloning--------------- Tool ----● | lolcat --animate')
     time.sleep(0.0005)
@@ -218,9 +218,9 @@ def menu():
     time.sleep(0.0005)
     os.system('echo [V]  Install Termux TBomb---------------------- Tool ----● | lolcat --animate')
     time.sleep(0.0005)
-    os.system('echo [W]  B4 BALOCH M4 MASTER WhatsApp Group-------- Tool----● | lolcat --animate')
+    os.system('echo [W] Cyber MASTER WhatsApp Group-------- Tool----● | lolcat --animate')
     time.sleep(0.0005)
-    os.system('echo [X]  BlackMafia Dragon404 New Update -----● | lolcat -a -F 0.01')
+    os.system('echo [X]  Black.Hate.Dargon New Update -----● | lolcat -a -F 0.01')
     time.sleep(0.0005)
     os.system('echo [Y]  Tool Update--------------------------● | lolcat --animate')
     time.sleep(0.0005)
@@ -272,8 +272,8 @@ def mafia():
                 os.system("rm -rf $HOME/402")
                 os.system("cd $HOME && git clone https://github.com/lovehacker404/402")
                 print (logo)
-                love("\033[1;93mTool User Name :\033[1;95m     Black ")
-                love("\033[1;93mTool Password  :\033[1;95m     Mafia ")
+                love("\033[1;93mTool User Name :\033[1;95m     ok ")
+                love("\033[1;93mTool Password  :\033[1;95m     ok ")
                 time.sleep(5)
                 os.system("cd $HOME/402 && python2 Cloningx-2-1.py")
         elif black =="F" or black =="f":
@@ -282,8 +282,8 @@ def mafia():
                 os.system("rm -rf $HOME/blackhole")
                 os.system("cd $HOME && git clone https://github.com/lovehacker404/blackhole")
                 print (logo)
-                love("\033[1;93mTool User Name :\033[1;95m     Black ")
-                love("\033[1;93mTool Password  :\033[1;95m     Mafia ")
+                love("\033[1;93mTool User Name :\033[1;95m     ok")
+                love("\033[1;93mTool Password  :\033[1;95m     ok ")
                 love("\033[1;93m        :Target Attack  :     ")
                 love("\033[1;93mPassword list  :\033[1;95mlovehacker-2.txt ")
                 time.sleep(5)
@@ -475,13 +475,13 @@ def mafia():
         elif black =="W" or black =="w":
                 clear()
                 print(logo)
-                love("Welcome To B4 BALOCH M4 MASTER WhatsApp Group")
+                love("Welcome To Cyber MASTER WhatsApp Group")
                 time.sleep(5)
                 os.system('xdg-open https://chat.whatsapp.com/BcmyQPBz6lz3t6oVN8wLoi')
         elif black =="X" or black =="x":
                 clear()
                 print(logo)
-                love("Welcome To B4 BALOCH 2nd Tool")
+                love("Welcome To SHADOW HACKER 2nd Tool")
                 love("BlackMafia 2nd Tool Start")
                 love("Coming Soon New Update")
                 time.sleep(5)
